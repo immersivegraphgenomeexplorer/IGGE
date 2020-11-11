@@ -3,6 +3,7 @@ To turn the exploration of graph genomes into an immersive, interactive, and usa
 
 
 [<img src="https://img.youtube.com/vi/p7QYgl1Fci0/maxresdefault.jpg" width="50%">](https://youtu.be/p7QYgl1Fci0)
+
 [[Watch the beta demo video here!]](https://youtu.be/p7QYgl1Fci0)
 
 Keywords: genome, unity, virtual reality, vr, visualization
