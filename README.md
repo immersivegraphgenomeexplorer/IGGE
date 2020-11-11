@@ -13,7 +13,7 @@ Version: Unity **2020.1.1f1**
 ## Installation
 
 Come try out IGGE on Oculus Quest or Windows PC!
-See [Installation](https://github.com/immersivegraphgenomeexplorer/IGGE/wiki/Installation)
+See [Installation](https://github.com/immersivegraphgenomeexplorer/IGGE/wiki/Installation) to get started.
 
 ## Documentation
 
